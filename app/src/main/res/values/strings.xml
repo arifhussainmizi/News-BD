@@ -1,0 +1,110 @@
+<resources>
+    <string name="app_name">News BD</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string-array name="webAddress">
+        <item>www.prothom-alo.com</item>
+        <item>www.ittefaq.com</item>
+        <item>www.dainikshiksha.com</item>
+        <item>www.kalerkantho.com</item>
+        <item>www.samakal.com</item>
+        <item>www.dailyjanakantha.com</item>
+        <item>www.dailyinqilab.com</item>
+        <item>www.alokitobangladesh.com</item>
+        <item>www.jugantor.com</item>
+
+    </string-array>
+
+    <string-array name="sportsItem">
+        <item>Cricket Live Score</item>
+        <item>Current Tour And Tournament</item>
+        <item>Cricket News</item>
+        <item>Football Live Score</item>
+        <item>Football Live News</item>
+        <item>Hockey Live Score</item>
+        <item>Tennis News And Score</item>
+        <item>Olympic Games</item>
+        <item>Golf News </item>
+
+
+    </string-array>
+    <string-array name="sportsWeb">
+        <item>www.espncricinfo.com/ci/engine/match/index.html</item>
+        <item>www.espncricinfo.com/ci/content/match/fixtures_futures.html</item>
+        <item>www.espncricinfo.com/ci/content/story/news.html</item>
+        <item>www.espn.in/football/scoreboard</item>
+        <item>www.skysports.com/football</item>
+        <item>www.flashscore.com/hockey/</item>
+        <item>www.tennis.com/</item>
+        <item>www.olympic.org/</item>
+        <item>www.golfchannel.com/</item>
+
+
+    </string-array>
+
+    <string-array name="teachItem">
+
+        <item>Prothom Alo Education News</item>
+        <item>Dainik Shikkha</item>
+        <item>LikhaPora BD</item>
+        <item>Public University News</item>
+        <item>National University News</item>
+        <item>Bangladesh Open University</item>
+        <item>Campus News</item>
+        <item>Primary Edcation News </item>
+        <item>Education Barta</item>
+
+
+    </string-array>
+
+    <string-array name="teachWeb">
+
+        <item>www.prothomalo.com/education/article</item>
+        <item>www.dainikshiksha.com/</item>
+        <item>www.lekhaporabd.com/archives/category/%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-%E0%A6%B8%E0%A6%82%E0%A6%AC%E0%A6%BE%E0%A6%A6</item>
+        <item>www.education24.net/tag/%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F-%E0%A6%B8%E0%A6%82%E0%A6%AC%E0%A6%BE%E0%A6%A6/</item>
+        <item>www.nu.edu.bd/nu-home/index.php</item>
+        <item>www.bou.edu.bd/</item>
+        <item>www.campus.org.bd/</item>
+        <item>www.dpe.gov.bd/</item>
+        <item>www.educationbarta.com/category/news</item>
+
+    </string-array>
+
+
+    <string-array name="jobsItem">
+
+        <item>Bank Jobs in BD</item>
+        <item>Government Jobs in BD</item>
+        <item>BD Jobs</item>
+        <item>Chkrir Khobor</item>
+        <item>Bikkroy.com Jobs News</item>
+        <item>News Paper Job News</item>
+        <item>Engineering Jobs News</item>
+        <item>Non Experience Jobs in BD </item>
+        <item>Private Company Jobs</item>
+
+
+    </string-array>
+
+    <string-array name="jobshWeb">
+
+        <item>www.ejobscircular.com/category/bank-jobs/</item>
+        <item>www.ejobscircular.com/category/government-jobs-circular/</item>
+        <item>www.bdjobs.com/</item>
+        <item>www.chakri.com/</item>
+        <item>www.bikroy.com/en/ads/bangladesh/jobs-in-bangladesh</item>
+        <item>www.alljobsbd.blogspot.com/</item>
+        <item>www.careerjet.com.bd/fresh-engineer-jobs.html</item>
+        <item>www.bdnews24.com/classifieds/jobs/full-time-jobs-with-no-experience-needed.html</item>
+        <item>www.bdjobscareers.com/private-job/</item>
+
+
+    </string-array>
+
+
+</resources>
